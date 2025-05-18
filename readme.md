@@ -28,5 +28,7 @@
   - graph difficulty: 2097
 - 2616.minimize the maximum difference of pairs
   - tooooo hard
+- 2812.find the safest path in the grid
+  - graph difficulty:2154
 
 
