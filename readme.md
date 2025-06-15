@@ -30,5 +30,8 @@
   - tooooo hard
 - 2812.find the safest path in the grid
   - graph difficulty:2154
+- 222.count complete tree nodes
+  - binary search on last level O(logN*logN) hard to understand
+
 
 
