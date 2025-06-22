@@ -34,6 +34,8 @@
   - binary search on last level O(logN*logN) hard to understand
 - 1901.find a peak element 2
   - intuition is hard to follow
+- 1539.kth missing positive number
+  - linear solution (intuition is hard to digest)
 
 
 
