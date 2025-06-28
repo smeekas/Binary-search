@@ -9,26 +9,26 @@
 - 1642.Furthest Building You Can Reach
   - included heap
 - 3048.Earliest Second to Mark Indices I
-  - binary search only but hard!
+  - binary search only but hard.
 - 3007.Maximum Number That Sum of the Prices Is Less Than or Equal to K
   - binary search with bit manipulation
 - 2071.maximum number of task you can assign
-  - too hard (tree-map, multi-set) difficulty: 2648
+  -tree-map, multi-set with bs difficulty: 2648
 - 1631.path with minimum efforts
-  - Graph?
+  - bs + Graph
 - 1648.sell diminishing valued colored balls
-  - hard to understand solution! difficulty: 2050
+  - extra hard difficulty: 2050
 - 2560.house robber 4
   - continuation from house robber, prev problem using DP, this problem can be tried using recursion. optimal include binary search. difficulty: 2081
 - 778.swim in rising water
   - graph difficulty: 2097
 - 2616.minimize the maximum difference of pairs
-  - tooooo hard
+  - hard!!! difficulty: 2155
 - 2812.find the safest path in the grid
   - graph difficulty:2154
 - 222.count complete tree nodes
-  - binary search on last level O(logN\*logN) hard to understand
+  - binary search on last level O(logN\*logN) hard
 - 1901.find a peak element 2
-  - intuition is hard to follow
+  - intuition is hard
 - 1539.kth missing positive number
-  - linear solution (intuition is hard to digest)
+  - linear solution (intuition is hard )
