@@ -12,8 +12,6 @@
   - binary search only but hard!
 - 3007.Maximum Number That Sum of the Prices Is Less Than or Equal to K
   - binary search with bit manipulation
-- 2258.escape spreading fire
-  - graph + binary search
 - 2071.maximum number of task you can assign
   - too hard (tree-map, multi-set) difficulty: 2648
 - 1631.path with minimum efforts
