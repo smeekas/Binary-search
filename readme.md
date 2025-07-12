@@ -5,9 +5,7 @@
 - 2982.Find Longest Special Substring That Occurs Thrice II
   - what the heck???
 - 2576.Find the Maximum Number of Marked Indices
-  - included greedy
-- 1642.Furthest Building You Can Reach
-  - included heap
+  - with greedy
 - 3048.Earliest Second to Mark Indices I
   - binary search only but hard.
 - 3007.Maximum Number That Sum of the Prices Is Less Than or Equal to K
